@@ -1,0 +1,30 @@
+09/25/2022 07:21:50 - INFO - __main__ -   **********************Job Start**********************
+09/25/2022 07:21:50 - INFO - __main__ -   Learning rate = 6.25e-05
+09/25/2022 07:21:50 - INFO - __main__ -   Warmup rate = 0.1
+09/25/2022 07:21:50 - INFO - __main__ -   Batch_size = 16
+09/25/2022 07:21:50 - INFO - __main__ -   Train epoch = 10
+09/25/2022 07:21:50 - INFO - __main__ -   Domain = GetWeather
+09/25/2022 07:21:50 - INFO - __main__ -   Nsamples = 0
+09/25/2022 07:36:09 - INFO - __main__ -   Epoch 1, train_loss 2.028436, Evalution acc 0.5128, recall 0.0880, f1 0.1503
+09/25/2022 07:36:26 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 07:49:14 - INFO - __main__ -   Epoch 2, train_loss 0.412557, Evalution acc 0.7661, recall 0.2623, f1 0.3908
+09/25/2022 07:49:37 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 08:02:32 - INFO - __main__ -   Epoch 3, train_loss 0.188470, Evalution acc 0.7850, recall 0.3952, f1 0.5258
+09/25/2022 08:02:49 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 08:15:40 - INFO - __main__ -   Epoch 4, train_loss 0.103415, Evalution acc 0.8032, recall 0.3952, f1 0.5298
+09/25/2022 08:15:57 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 08:28:45 - INFO - __main__ -   Epoch 5, train_loss 0.058382, Evalution acc 0.8497, recall 0.4278, f1 0.5691
+09/25/2022 08:29:02 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 08:41:51 - INFO - __main__ -   Epoch 6, train_loss 0.031623, Evalution acc 0.8369, recall 0.4472, f1 0.5829
+09/25/2022 08:42:09 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 08:54:50 - INFO - __main__ -   Epoch 7, train_loss 0.015742, Evalution acc 0.8534, recall 0.4560, f1 0.5944
+09/25/2022 08:55:08 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/0/model.pth
+09/25/2022 09:07:51 - INFO - __main__ -   Epoch 8, train_loss 0.008244, Evalution acc 0.8431, recall 0.4445, f1 0.5821
+09/25/2022 09:20:30 - INFO - __main__ -   Epoch 9, train_loss 0.004191, Evalution acc 0.8229, recall 0.4498, f1 0.5817
+09/25/2022 09:33:10 - INFO - __main__ -   Epoch 10, train_loss 0.002293, Evalution acc 0.8118, recall 0.4595, f1 0.5868
+09/25/2022 09:33:11 - INFO - __main__ -   Starting test...
+09/25/2022 09:42:07 - INFO - __main__ -   ***********************************************************
+09/25/2022 09:42:07 - INFO - __main__ -   Target domain = GetWeather
+09/25/2022 09:42:07 - INFO - __main__ -   n_samples = 0
+09/25/2022 09:42:07 - INFO - __main__ -   Test result: acc 0.8194, recall 0.4389, f1 0.5716
+09/25/2022 09:42:07 - INFO - __main__ -   ***********************************************************

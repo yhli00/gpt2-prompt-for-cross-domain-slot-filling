@@ -1,0 +1,28 @@
+09/25/2022 05:34:00 - INFO - __main__ -   **********************Job Start**********************
+09/25/2022 05:34:00 - INFO - __main__ -   Learning rate = 6.25e-05
+09/25/2022 05:34:00 - INFO - __main__ -   Warmup rate = 0.1
+09/25/2022 05:34:00 - INFO - __main__ -   Batch_size = 16
+09/25/2022 05:34:00 - INFO - __main__ -   Train epoch = 10
+09/25/2022 05:34:00 - INFO - __main__ -   Domain = BookRestaurant
+09/25/2022 05:34:00 - INFO - __main__ -   Nsamples = 20
+09/25/2022 05:48:25 - INFO - __main__ -   Epoch 1, train_loss 2.189958, Evalution acc 0.5675, recall 0.1121, f1 0.1872
+09/25/2022 05:48:27 - INFO - __main__ -   Saved model checkpoint to ./model_dir/BookRestaurant/20/model.pth
+09/25/2022 06:01:58 - INFO - __main__ -   Epoch 2, train_loss 0.447418, Evalution acc 0.5834, recall 0.3071, f1 0.4024
+09/25/2022 06:02:15 - INFO - __main__ -   Saved model checkpoint to ./model_dir/BookRestaurant/20/model.pth
+09/25/2022 06:15:15 - INFO - __main__ -   Epoch 3, train_loss 0.200543, Evalution acc 0.8103, recall 0.4761, f1 0.5998
+09/25/2022 06:15:32 - INFO - __main__ -   Saved model checkpoint to ./model_dir/BookRestaurant/20/model.pth
+09/25/2022 06:28:34 - INFO - __main__ -   Epoch 4, train_loss 0.109538, Evalution acc 0.7826, recall 0.5015, f1 0.6113
+09/25/2022 06:28:50 - INFO - __main__ -   Saved model checkpoint to ./model_dir/BookRestaurant/20/model.pth
+09/25/2022 06:42:15 - INFO - __main__ -   Epoch 5, train_loss 0.060299, Evalution acc 0.7241, recall 0.5118, f1 0.5997
+09/25/2022 06:55:30 - INFO - __main__ -   Epoch 6, train_loss 0.032396, Evalution acc 0.6621, recall 0.4936, f1 0.5656
+09/25/2022 07:08:43 - INFO - __main__ -   Epoch 7, train_loss 0.015906, Evalution acc 0.7775, recall 0.5609, f1 0.6517
+09/25/2022 07:09:01 - INFO - __main__ -   Saved model checkpoint to ./model_dir/BookRestaurant/20/model.pth
+09/25/2022 07:22:04 - INFO - __main__ -   Epoch 8, train_loss 0.008215, Evalution acc 0.7690, recall 0.5584, f1 0.6470
+09/25/2022 07:35:41 - INFO - __main__ -   Epoch 9, train_loss 0.004383, Evalution acc 0.7436, recall 0.5657, f1 0.6426
+09/25/2022 07:49:07 - INFO - __main__ -   Epoch 10, train_loss 0.002454, Evalution acc 0.7286, recall 0.5609, f1 0.6338
+09/25/2022 07:49:07 - INFO - __main__ -   Starting test...
+09/25/2022 08:04:38 - INFO - __main__ -   ***********************************************************
+09/25/2022 08:04:38 - INFO - __main__ -   Target domain = BookRestaurant
+09/25/2022 08:04:38 - INFO - __main__ -   n_samples = 20
+09/25/2022 08:04:38 - INFO - __main__ -   Test result: acc 0.7885, recall 0.5801, f1 0.6684
+09/25/2022 08:04:38 - INFO - __main__ -   ***********************************************************

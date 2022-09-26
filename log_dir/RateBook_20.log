@@ -1,0 +1,30 @@
+09/25/2022 00:49:11 - INFO - __main__ -   **********************Job Start**********************
+09/25/2022 00:49:11 - INFO - __main__ -   Learning rate = 6.25e-05
+09/25/2022 00:49:11 - INFO - __main__ -   Warmup rate = 0.1
+09/25/2022 00:49:11 - INFO - __main__ -   Batch_size = 16
+09/25/2022 00:49:11 - INFO - __main__ -   Train epoch = 10
+09/25/2022 00:49:11 - INFO - __main__ -   Domain = RateBook
+09/25/2022 00:49:11 - INFO - __main__ -   Nsamples = 20
+09/25/2022 01:03:51 - INFO - __main__ -   Epoch 1, train_loss 1.990107, Evalution acc 0.3565, recall 0.1814, f1 0.2404
+09/25/2022 01:03:53 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 01:17:04 - INFO - __main__ -   Epoch 2, train_loss 0.382369, Evalution acc 0.8593, recall 0.4325, f1 0.5754
+09/25/2022 01:17:19 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 01:30:29 - INFO - __main__ -   Epoch 3, train_loss 0.172296, Evalution acc 0.8507, recall 0.5615, f1 0.6765
+09/25/2022 01:30:45 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 01:43:46 - INFO - __main__ -   Epoch 4, train_loss 0.095018, Evalution acc 0.8393, recall 0.7282, f1 0.7798
+09/25/2022 01:44:03 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 01:57:11 - INFO - __main__ -   Epoch 5, train_loss 0.053802, Evalution acc 0.8540, recall 0.7168, f1 0.7794
+09/25/2022 02:10:07 - INFO - __main__ -   Epoch 6, train_loss 0.028870, Evalution acc 0.8698, recall 0.7751, f1 0.8197
+09/25/2022 02:10:23 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 02:23:09 - INFO - __main__ -   Epoch 7, train_loss 0.014867, Evalution acc 0.8818, recall 0.7881, f1 0.8323
+09/25/2022 02:23:25 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 02:36:14 - INFO - __main__ -   Epoch 8, train_loss 0.007197, Evalution acc 0.8938, recall 0.8072, f1 0.8483
+09/25/2022 02:36:29 - INFO - __main__ -   Saved model checkpoint to ./model_dir/RateBook/20/model.pth
+09/25/2022 02:49:23 - INFO - __main__ -   Epoch 9, train_loss 0.004143, Evalution acc 0.8765, recall 0.8197, f1 0.8472
+09/25/2022 03:02:16 - INFO - __main__ -   Epoch 10, train_loss 0.002473, Evalution acc 0.8369, recall 0.8050, f1 0.8207
+09/25/2022 03:02:16 - INFO - __main__ -   Starting test...
+09/25/2022 03:09:28 - INFO - __main__ -   ***********************************************************
+09/25/2022 03:09:28 - INFO - __main__ -   Target domain = RateBook
+09/25/2022 03:09:28 - INFO - __main__ -   n_samples = 20
+09/25/2022 03:09:28 - INFO - __main__ -   Test result: acc 0.8639, recall 0.7957, f1 0.8284
+09/25/2022 03:09:28 - INFO - __main__ -   ***********************************************************

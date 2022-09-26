@@ -1,0 +1,29 @@
+09/24/2022 22:22:05 - INFO - __main__ -   **********************Job Start**********************
+09/24/2022 22:22:05 - INFO - __main__ -   Learning rate = 6.25e-05
+09/24/2022 22:22:05 - INFO - __main__ -   Warmup rate = 0.1
+09/24/2022 22:22:05 - INFO - __main__ -   Batch_size = 16
+09/24/2022 22:22:05 - INFO - __main__ -   Train epoch = 10
+09/24/2022 22:22:05 - INFO - __main__ -   Domain = AddToPlaylist
+09/24/2022 22:22:05 - INFO - __main__ -   Nsamples = 20
+09/24/2022 22:37:04 - INFO - __main__ -   Epoch 1, train_loss 1.829693, Evalution acc 0.5894, recall 0.1952, f1 0.2932
+09/24/2022 22:37:21 - INFO - __main__ -   Saved model checkpoint to ./model_dir/AddToPlaylist/20/model.pth
+09/24/2022 22:51:19 - INFO - __main__ -   Epoch 2, train_loss 0.357843, Evalution acc 0.4667, recall 0.2712, f1 0.3430
+09/24/2022 22:51:36 - INFO - __main__ -   Saved model checkpoint to ./model_dir/AddToPlaylist/20/model.pth
+09/24/2022 23:06:18 - INFO - __main__ -   Epoch 3, train_loss 0.168438, Evalution acc 0.6403, recall 0.3969, f1 0.4901
+09/24/2022 23:06:34 - INFO - __main__ -   Saved model checkpoint to ./model_dir/AddToPlaylist/20/model.pth
+09/24/2022 23:20:20 - INFO - __main__ -   Epoch 4, train_loss 0.094976, Evalution acc 0.7008, recall 0.4401, f1 0.5406
+09/24/2022 23:20:37 - INFO - __main__ -   Saved model checkpoint to ./model_dir/AddToPlaylist/20/model.pth
+09/24/2022 23:34:16 - INFO - __main__ -   Epoch 5, train_loss 0.055667, Evalution acc 0.6558, recall 0.5292, f1 0.5858
+09/24/2022 23:34:33 - INFO - __main__ -   Saved model checkpoint to ./model_dir/AddToPlaylist/20/model.pth
+09/24/2022 23:48:34 - INFO - __main__ -   Epoch 6, train_loss 0.030999, Evalution acc 0.6433, recall 0.5088, f1 0.5682
+09/25/2022 00:02:08 - INFO - __main__ -   Epoch 7, train_loss 0.015713, Evalution acc 0.6395, recall 0.5227, f1 0.5752
+09/25/2022 00:15:23 - INFO - __main__ -   Epoch 8, train_loss 0.007743, Evalution acc 0.6602, recall 0.5453, f1 0.5973
+09/25/2022 00:15:40 - INFO - __main__ -   Saved model checkpoint to ./model_dir/AddToPlaylist/20/model.pth
+09/25/2022 00:29:05 - INFO - __main__ -   Epoch 9, train_loss 0.003961, Evalution acc 0.6396, recall 0.5190, f1 0.5730
+09/25/2022 00:42:28 - INFO - __main__ -   Epoch 10, train_loss 0.002362, Evalution acc 0.6367, recall 0.5482, f1 0.5892
+09/25/2022 00:42:29 - INFO - __main__ -   Starting test...
+09/25/2022 00:49:08 - INFO - __main__ -   ***********************************************************
+09/25/2022 00:49:08 - INFO - __main__ -   Target domain = AddToPlaylist
+09/25/2022 00:49:08 - INFO - __main__ -   n_samples = 20
+09/25/2022 00:49:08 - INFO - __main__ -   Test result: acc 0.6844, recall 0.5369, f1 0.6017
+09/25/2022 00:49:08 - INFO - __main__ -   ***********************************************************

@@ -1,0 +1,31 @@
+09/26/2022 03:37:42 - INFO - __main__ -   **********************Job Start**********************
+09/26/2022 03:37:42 - INFO - __main__ -   Learning rate = 6.25e-05
+09/26/2022 03:37:42 - INFO - __main__ -   Warmup rate = 0.1
+09/26/2022 03:37:42 - INFO - __main__ -   Batch_size = 16
+09/26/2022 03:37:42 - INFO - __main__ -   Train epoch = 10
+09/26/2022 03:37:42 - INFO - __main__ -   Domain = GetWeather
+09/26/2022 03:37:42 - INFO - __main__ -   Nsamples = 50
+09/26/2022 03:52:50 - INFO - __main__ -   Epoch 1, train_loss 2.017981, Evalution acc 0.7489, recall 0.1543, f1 0.2558
+09/26/2022 03:52:52 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 04:07:11 - INFO - __main__ -   Epoch 2, train_loss 0.408927, Evalution acc 0.7321, recall 0.3593, f1 0.4821
+09/26/2022 04:07:27 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 04:20:55 - INFO - __main__ -   Epoch 3, train_loss 0.188789, Evalution acc 0.7916, recall 0.3961, f1 0.5280
+09/26/2022 04:21:10 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 04:34:44 - INFO - __main__ -   Epoch 4, train_loss 0.105191, Evalution acc 0.8178, recall 0.5627, f1 0.6667
+09/26/2022 04:35:00 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 04:48:38 - INFO - __main__ -   Epoch 5, train_loss 0.060301, Evalution acc 0.8514, recall 0.5723, f1 0.6845
+09/26/2022 04:48:53 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 05:02:59 - INFO - __main__ -   Epoch 6, train_loss 0.033212, Evalution acc 0.8637, recall 0.5942, f1 0.7040
+09/26/2022 05:03:16 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 05:16:37 - INFO - __main__ -   Epoch 7, train_loss 0.016948, Evalution acc 0.8790, recall 0.6240, f1 0.7299
+09/26/2022 05:16:53 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 05:30:12 - INFO - __main__ -   Epoch 8, train_loss 0.008400, Evalution acc 0.8777, recall 0.6477, f1 0.7453
+09/26/2022 05:30:28 - INFO - __main__ -   Saved model checkpoint to ./model_dir/GetWeather/50/model.pth
+09/26/2022 05:44:35 - INFO - __main__ -   Epoch 9, train_loss 0.004619, Evalution acc 0.8266, recall 0.6477, f1 0.7263
+09/26/2022 05:58:02 - INFO - __main__ -   Epoch 10, train_loss 0.002647, Evalution acc 0.8682, recall 0.6468, f1 0.7413
+09/26/2022 05:58:02 - INFO - __main__ -   Starting test...
+09/26/2022 06:07:07 - INFO - __main__ -   ***********************************************************
+09/26/2022 06:07:07 - INFO - __main__ -   Target domain = GetWeather
+09/26/2022 06:07:07 - INFO - __main__ -   n_samples = 50
+09/26/2022 06:07:07 - INFO - __main__ -   Test result: acc 0.8616, recall 0.6463, f1 0.7386
+09/26/2022 06:07:07 - INFO - __main__ -   ***********************************************************

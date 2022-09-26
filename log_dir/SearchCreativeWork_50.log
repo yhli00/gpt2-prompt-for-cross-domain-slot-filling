@@ -1,0 +1,29 @@
+09/26/2022 06:07:10 - INFO - __main__ -   **********************Job Start**********************
+09/26/2022 06:07:10 - INFO - __main__ -   Learning rate = 6.25e-05
+09/26/2022 06:07:10 - INFO - __main__ -   Warmup rate = 0.1
+09/26/2022 06:07:10 - INFO - __main__ -   Batch_size = 16
+09/26/2022 06:07:10 - INFO - __main__ -   Train epoch = 10
+09/26/2022 06:07:10 - INFO - __main__ -   Domain = SearchCreativeWork
+09/26/2022 06:07:10 - INFO - __main__ -   Nsamples = 50
+09/26/2022 06:21:56 - INFO - __main__ -   Epoch 1, train_loss 1.814790, Evalution acc 0.2520, recall 0.0743, f1 0.1148
+09/26/2022 06:21:57 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchCreativeWork/50/model.pth
+09/26/2022 06:35:19 - INFO - __main__ -   Epoch 2, train_loss 0.336003, Evalution acc 0.3934, recall 0.1800, f1 0.2470
+09/26/2022 06:35:35 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchCreativeWork/50/model.pth
+09/26/2022 06:49:10 - INFO - __main__ -   Epoch 3, train_loss 0.151753, Evalution acc 0.4517, recall 0.3148, f1 0.3710
+09/26/2022 06:49:26 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchCreativeWork/50/model.pth
+09/26/2022 07:02:49 - INFO - __main__ -   Epoch 4, train_loss 0.084869, Evalution acc 0.5993, recall 0.3751, f1 0.4614
+09/26/2022 07:03:06 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchCreativeWork/50/model.pth
+09/26/2022 07:16:41 - INFO - __main__ -   Epoch 5, train_loss 0.049292, Evalution acc 0.6259, recall 0.3984, f1 0.4869
+09/26/2022 07:16:57 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchCreativeWork/50/model.pth
+09/26/2022 07:30:09 - INFO - __main__ -   Epoch 6, train_loss 0.026795, Evalution acc 0.5565, recall 0.4344, f1 0.4879
+09/26/2022 07:30:26 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchCreativeWork/50/model.pth
+09/26/2022 07:43:49 - INFO - __main__ -   Epoch 7, train_loss 0.013579, Evalution acc 0.4893, recall 0.3972, f1 0.4385
+09/26/2022 07:57:32 - INFO - __main__ -   Epoch 8, train_loss 0.007110, Evalution acc 0.5563, recall 0.4019, f1 0.4666
+09/26/2022 08:10:50 - INFO - __main__ -   Epoch 9, train_loss 0.003694, Evalution acc 0.4795, recall 0.4204, f1 0.4480
+09/26/2022 08:24:18 - INFO - __main__ -   Epoch 10, train_loss 0.002253, Evalution acc 0.4910, recall 0.4437, f1 0.4661
+09/26/2022 08:24:19 - INFO - __main__ -   Starting test...
+09/26/2022 08:28:11 - INFO - __main__ -   ***********************************************************
+09/26/2022 08:28:11 - INFO - __main__ -   Target domain = SearchCreativeWork
+09/26/2022 08:28:11 - INFO - __main__ -   n_samples = 50
+09/26/2022 08:28:11 - INFO - __main__ -   Test result: acc 0.6086, recall 0.4511, f1 0.5181
+09/26/2022 08:28:11 - INFO - __main__ -   ***********************************************************

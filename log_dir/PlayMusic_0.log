@@ -1,0 +1,27 @@
+09/24/2022 23:55:28 - INFO - __main__ -   **********************Job Start**********************
+09/24/2022 23:55:28 - INFO - __main__ -   Learning rate = 6.25e-05
+09/24/2022 23:55:28 - INFO - __main__ -   Warmup rate = 0.1
+09/24/2022 23:55:28 - INFO - __main__ -   Batch_size = 16
+09/24/2022 23:55:28 - INFO - __main__ -   Train epoch = 10
+09/24/2022 23:55:28 - INFO - __main__ -   Domain = PlayMusic
+09/24/2022 23:55:28 - INFO - __main__ -   Nsamples = 0
+09/25/2022 00:11:03 - INFO - __main__ -   Epoch 1, train_loss 2.015320, Evalution acc 0.2949, recall 0.0942, f1 0.1428
+09/25/2022 00:11:21 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/0/model.pth
+09/25/2022 00:25:41 - INFO - __main__ -   Epoch 2, train_loss 0.391833, Evalution acc 0.2094, recall 0.1363, f1 0.1651
+09/25/2022 00:25:59 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/0/model.pth
+09/25/2022 00:40:13 - INFO - __main__ -   Epoch 3, train_loss 0.177175, Evalution acc 0.2283, recall 0.1318, f1 0.1671
+09/25/2022 00:40:31 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/0/model.pth
+09/25/2022 00:54:22 - INFO - __main__ -   Epoch 4, train_loss 0.096986, Evalution acc 0.2205, recall 0.1408, f1 0.1719
+09/25/2022 00:54:41 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/0/model.pth
+09/25/2022 01:08:31 - INFO - __main__ -   Epoch 5, train_loss 0.054555, Evalution acc 0.1764, recall 0.1247, f1 0.1461
+09/25/2022 01:22:32 - INFO - __main__ -   Epoch 6, train_loss 0.029249, Evalution acc 0.1980, recall 0.1426, f1 0.1658
+09/25/2022 01:36:30 - INFO - __main__ -   Epoch 7, train_loss 0.014531, Evalution acc 0.1870, recall 0.1291, f1 0.1528
+09/25/2022 01:50:10 - INFO - __main__ -   Epoch 8, train_loss 0.007463, Evalution acc 0.1852, recall 0.1480, f1 0.1645
+09/25/2022 02:04:43 - INFO - __main__ -   Epoch 9, train_loss 0.003822, Evalution acc 0.1646, recall 0.1309, f1 0.1459
+09/25/2022 02:18:46 - INFO - __main__ -   Epoch 10, train_loss 0.002474, Evalution acc 0.1805, recall 0.1363, f1 0.1553
+09/25/2022 02:18:46 - INFO - __main__ -   Starting test...
+09/25/2022 02:30:45 - INFO - __main__ -   ***********************************************************
+09/25/2022 02:30:45 - INFO - __main__ -   Target domain = PlayMusic
+09/25/2022 02:30:45 - INFO - __main__ -   n_samples = 0
+09/25/2022 02:30:45 - INFO - __main__ -   Test result: acc 0.2327, recall 0.1537, f1 0.1852
+09/25/2022 02:30:45 - INFO - __main__ -   ***********************************************************

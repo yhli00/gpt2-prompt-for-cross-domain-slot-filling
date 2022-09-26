@@ -1,0 +1,29 @@
+09/25/2022 08:04:41 - INFO - __main__ -   **********************Job Start**********************
+09/25/2022 08:04:41 - INFO - __main__ -   Learning rate = 6.25e-05
+09/25/2022 08:04:41 - INFO - __main__ -   Warmup rate = 0.1
+09/25/2022 08:04:41 - INFO - __main__ -   Batch_size = 16
+09/25/2022 08:04:41 - INFO - __main__ -   Train epoch = 10
+09/25/2022 08:04:41 - INFO - __main__ -   Domain = SearchScreeningEvent
+09/25/2022 08:04:41 - INFO - __main__ -   Nsamples = 20
+09/25/2022 08:20:53 - INFO - __main__ -   Epoch 1, train_loss 2.009872, Evalution acc 0.2078, recall 0.0955, f1 0.1309
+09/25/2022 08:20:54 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchScreeningEvent/20/model.pth
+09/25/2022 08:34:56 - INFO - __main__ -   Epoch 2, train_loss 0.402355, Evalution acc 0.5636, recall 0.2793, f1 0.3735
+09/25/2022 08:35:14 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchScreeningEvent/20/model.pth
+09/25/2022 08:50:20 - INFO - __main__ -   Epoch 3, train_loss 0.182151, Evalution acc 0.4416, recall 0.3063, f1 0.3617
+09/25/2022 09:03:52 - INFO - __main__ -   Epoch 4, train_loss 0.101189, Evalution acc 0.7055, recall 0.4144, f1 0.5221
+09/25/2022 09:04:11 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchScreeningEvent/20/model.pth
+09/25/2022 09:18:08 - INFO - __main__ -   Epoch 5, train_loss 0.058304, Evalution acc 0.7623, recall 0.6009, f1 0.6720
+09/25/2022 09:18:26 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchScreeningEvent/20/model.pth
+09/25/2022 09:31:40 - INFO - __main__ -   Epoch 6, train_loss 0.031913, Evalution acc 0.6939, recall 0.5351, f1 0.6043
+09/25/2022 09:44:54 - INFO - __main__ -   Epoch 7, train_loss 0.016187, Evalution acc 0.7959, recall 0.6324, f1 0.7048
+09/25/2022 09:45:14 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchScreeningEvent/20/model.pth
+09/25/2022 09:58:48 - INFO - __main__ -   Epoch 8, train_loss 0.007871, Evalution acc 0.7284, recall 0.6378, f1 0.6801
+09/25/2022 10:12:08 - INFO - __main__ -   Epoch 9, train_loss 0.004242, Evalution acc 0.7400, recall 0.6640, f1 0.6999
+09/25/2022 10:25:36 - INFO - __main__ -   Epoch 10, train_loss 0.002520, Evalution acc 0.7680, recall 0.6622, f1 0.7112
+09/25/2022 10:25:53 - INFO - __main__ -   Saved model checkpoint to ./model_dir/SearchScreeningEvent/20/model.pth
+09/25/2022 10:25:54 - INFO - __main__ -   Starting test...
+09/25/2022 10:33:34 - INFO - __main__ -   ***********************************************************
+09/25/2022 10:33:34 - INFO - __main__ -   Target domain = SearchScreeningEvent
+09/25/2022 10:33:34 - INFO - __main__ -   n_samples = 20
+09/25/2022 10:33:34 - INFO - __main__ -   Test result: acc 0.7859, recall 0.6600, f1 0.7175
+09/25/2022 10:33:34 - INFO - __main__ -   ***********************************************************

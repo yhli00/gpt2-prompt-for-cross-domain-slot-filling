@@ -1,0 +1,31 @@
+09/25/2022 03:09:30 - INFO - __main__ -   **********************Job Start**********************
+09/25/2022 03:09:30 - INFO - __main__ -   Learning rate = 6.25e-05
+09/25/2022 03:09:30 - INFO - __main__ -   Warmup rate = 0.1
+09/25/2022 03:09:30 - INFO - __main__ -   Batch_size = 16
+09/25/2022 03:09:30 - INFO - __main__ -   Train epoch = 10
+09/25/2022 03:09:30 - INFO - __main__ -   Domain = PlayMusic
+09/25/2022 03:09:30 - INFO - __main__ -   Nsamples = 20
+09/25/2022 03:24:17 - INFO - __main__ -   Epoch 1, train_loss 2.021121, Evalution acc 0.2978, recall 0.0972, f1 0.1466
+09/25/2022 03:24:19 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 03:37:43 - INFO - __main__ -   Epoch 2, train_loss 0.397311, Evalution acc 0.5104, recall 0.2186, f1 0.3061
+09/25/2022 03:38:00 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 03:51:31 - INFO - __main__ -   Epoch 3, train_loss 0.179056, Evalution acc 0.5943, recall 0.2953, f1 0.3945
+09/25/2022 03:51:47 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 04:05:02 - INFO - __main__ -   Epoch 4, train_loss 0.097232, Evalution acc 0.6595, recall 0.3283, f1 0.4384
+09/25/2022 04:05:18 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 04:18:11 - INFO - __main__ -   Epoch 5, train_loss 0.054974, Evalution acc 0.6471, recall 0.3336, f1 0.4403
+09/25/2022 04:18:27 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 04:31:31 - INFO - __main__ -   Epoch 6, train_loss 0.029417, Evalution acc 0.6715, recall 0.4103, f1 0.5094
+09/25/2022 04:31:47 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 04:44:44 - INFO - __main__ -   Epoch 7, train_loss 0.014625, Evalution acc 0.7060, recall 0.3898, f1 0.5023
+09/25/2022 04:57:44 - INFO - __main__ -   Epoch 8, train_loss 0.007426, Evalution acc 0.6575, recall 0.4264, f1 0.5173
+09/25/2022 04:58:00 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 05:11:04 - INFO - __main__ -   Epoch 9, train_loss 0.004134, Evalution acc 0.6345, recall 0.4228, f1 0.5075
+09/25/2022 05:24:01 - INFO - __main__ -   Epoch 10, train_loss 0.002398, Evalution acc 0.7054, recall 0.4228, f1 0.5287
+09/25/2022 05:24:17 - INFO - __main__ -   Saved model checkpoint to ./model_dir/PlayMusic/20/model.pth
+09/25/2022 05:24:18 - INFO - __main__ -   Starting test...
+09/25/2022 05:33:57 - INFO - __main__ -   ***********************************************************
+09/25/2022 05:33:57 - INFO - __main__ -   Target domain = PlayMusic
+09/25/2022 05:33:57 - INFO - __main__ -   n_samples = 20
+09/25/2022 05:33:57 - INFO - __main__ -   Test result: acc 0.6638, recall 0.4000, f1 0.4992
+09/25/2022 05:33:57 - INFO - __main__ -   ***********************************************************
